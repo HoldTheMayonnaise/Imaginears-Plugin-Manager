@@ -1,0 +1,10 @@
+name: ImaginearsPluginManager
+author: Gatario
+main: club.imaginears.pluginmanager.PluginManager
+version: [0.1-BETA]
+description: Created for ImaginearsClub
+api-version: 1.13
+commands:
+  reloadplugin:
+  unloadplugin:
+  loadplugin:
